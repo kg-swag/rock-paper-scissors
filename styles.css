@@ -1,0 +1,42 @@
+body{
+    background-color: #0077B6;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1, h2, p {
+    color: #90E0EF;
+    text-align: center;
+}
+
+.selections{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.results{
+    display: flex;
+    justify-content: center;
+}
+
+.game{
+    margin-top: 20%;
+}
+
+.selections{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.winLose{
+    color: white;
+}
+
+button{
+    border-radius: 50%;
+}
+
+img{
+    width: 70px;
+    height: 70px;
+}
